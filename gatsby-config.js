@@ -3,10 +3,10 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Vinod\'s Portfolio',
-    pathPrefix: "/Vinod-s-Portfolio",
+    // pathPrefix: "/Vinod-s-Portfolio",
     description:
       'Vinod Badni is a software engineer who specializes in building (and occasionally designing) AI Products.',
-    siteUrl: 'https://github.com/vsb-04', // No trailing slash allowed!
+    // siteUrl: 'https://github.com/vsb-04', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Badnivinod',
   },
